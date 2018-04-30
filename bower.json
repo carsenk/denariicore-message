@@ -1,0 +1,29 @@
+{
+  "name": "denariicore-message",
+  "main": "./denariicore-message.min.js",
+  "version": "1.0.3",
+  "homepage": "https://github.com/denarius/denariicore-message",
+  "authors": [
+    "BitPay"
+  ],
+  "description": "Denarius Message Verification and Signing for Bitcore",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "denarius",
+    "denariicore",
+    "via",
+    "satoshi",
+    "message",
+    "signing"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
